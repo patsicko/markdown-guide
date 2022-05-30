@@ -38,11 +38,16 @@ Subscript | <sub> </sub> |   | <sub>This is a subscript text</sub> | This is a 
 Superscript | <sup> </sup> |   | <sup>This is a superscript text</sup>
 
 
-Quoting code
-You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted. You can also press the Command+E (Mac) or Ctrl+E (Windows/Linux) keyboard shortcut to insert the backticks for a code block within a line of Markdown.
+## Quoting code
 
+You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted. 
+
+ Use \`git status` to list all new or modified files that haven't yet been committed.
+
+#### output
 Use `git status` to list all new or modified files that haven't yet been committed.
-Rendered inline code block
+`
+
 
 To format code or text into its own distinct block, use triple backticks.
 
@@ -55,11 +60,11 @@ git commit
 
 ## Links
 You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ).
-    eg: `Consult [patsicko wiki on github for Markdown guide](https://github.com/patsicko/book-app-store/wiki)`
+    eg: `Consult [patsicko wiki on github for Markdown guide](https://github.com/patsicko/markdown-guide/wiki)`
 
 output:
 
-Consult [patsicko wiki on github for Markdown guide](https://github.com/patsicko/book-app-store/wiki)
+Consult [patsicko wiki on github for Markdown guide](https://github.com/patsicko/markdown-guide/wiki)
 
 ## Add an image
 
@@ -77,7 +82,7 @@ Here is an example
 To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.
 eg:
 
-`**Markdown
+**Markdown**
 1. First item
 2. Second item
 3. Third item
