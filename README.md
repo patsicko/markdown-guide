@@ -100,8 +100,16 @@ To create an unordered list, add dashes `(-)`, asterisks `(*)`, or plus signs `(
 
 ## URLs and Email Addresses
 To quickly turn a URL or email address into a link, enclose it in angle brackets.
+Eg:
+
+`<https://github.com/patsicko/markdown-guide/wiki>`
+
+`<patsicko@gmail.com>`
+### output
 
 <https://github.com/patsicko/markdown-guide/wiki>
 
+
 <patsicko@gmail.com>
+
 
