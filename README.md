@@ -6,7 +6,7 @@ Markdown is a lightweight markup language for creating formatted text using a pl
  Markdown is widely used in blogging, instant messaging, online forums, [collaborative software](https://en.wikipedia.org/wiki/Collaborative_software),documentation pages, and [readme files](https://en.wikipedia.org/wiki/README).
 
 # Basic writing and formatting syntax
-__
+
 ##  How to create Headings with Markdown
 
 To create a heading, add one to six `#` symbols before your heading text. The number of `#` you use will determine the size of the heading.
