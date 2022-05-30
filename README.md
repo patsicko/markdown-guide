@@ -1,7 +1,7 @@
 
 # MARKDOWN SYNTAX GUIDE
 ##### By Patrick
-##What is markdown?
+## What is markdown?
 Markdown is a lightweight markup language for creating formatted text using a plain-text editor. 
  Markdown is widely used in blogging, instant messaging, online forums, [collaborative software](https://en.wikipedia.org/wiki/Collaborative_software),documentation pages, and [readme files](https://en.wikipedia.org/wiki/README).
 
