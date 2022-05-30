@@ -96,5 +96,10 @@ eg:
 ## Unordered Lists
 To create an unordered list, add dashes `(-)`, asterisks `(*)`, or plus signs `(+)` in front of line items. Indent one or more items to create a nested list.
 
+## URLs and Email Addresses
+To quickly turn a URL or email address into a link, enclose it in angle brackets.
 
+<https://github.com/patsicko/markdown-guide/wiki>
+
+<patsicko@gmail.com>
 
