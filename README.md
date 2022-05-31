@@ -53,7 +53,7 @@ Some basic Git commands are:
 git status
 git add
 git commit
-```
+
 
 ## Links
 You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ).
