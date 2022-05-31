@@ -49,11 +49,11 @@ Use `git status` to list all new or modified files that haven't yet been committ
 To format code or text into its own distinct block, use triple backticks.
 
 Some basic Git commands are:
-
+```
 git status
 git add
 git commit
-
+```
 
 ## Links
 You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ).
@@ -97,7 +97,7 @@ eg:
 
 ## Unordered Lists
 To create an unordered list, add dashes `(-)`, asterisks `(*)`, or plus signs `(+)` in front of line items. Indent one or more items to create a nested list.
-
+git status git add git commit
 ## URLs and Email Addresses
 To quickly turn a URL or email address into a link, enclose it in angle brackets.
 Eg:
