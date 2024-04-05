@@ -107,9 +107,13 @@ Eg:
 `<patsicko@gmail.com>`
 ### output
 
+
+
+
+
 <https://github.com/patsicko/markdown-guide/wiki>
 
 
 <patsicko@gmail.com>
 
-
+![ido](https://github.com/patsicko/markdown-guide/assets/63926982/b0d6b7af-7617-46a1-bef3-872c3f7c08db)
